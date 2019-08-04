@@ -1,0 +1,10 @@
+{
+  "name": "table-with-scoped-slots",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue": "latest"
+  }
+}
